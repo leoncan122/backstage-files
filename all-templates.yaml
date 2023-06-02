@@ -5,4 +5,4 @@ metadata:
   description: A collection of all Backstage example APIs
 spec:
   targets:
-    - https://github.com/leoncan122/template-1/blob/main/template.yaml
+    - https://github.com/leoncan122/template-1/blob/main/content/catalog-info.yaml
