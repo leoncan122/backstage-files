@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: template-examples
+  description: A collection of all Backstage example APIs
+spec:
+  targets:
+    - https://github.com/leoncan122/next-basic-template
+    - https://github.com/leoncan122/followMe/blob/master/catalog-info.yaml
