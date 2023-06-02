@@ -6,3 +6,4 @@ metadata:
 spec:
   targets:
     - https://github.com/leoncan122/template-1/blob/main/template.yaml
+    - https://github.com/backstage/software-templates/blob/main/scaffolder-templates/clean-architecture-app/template.yaml
