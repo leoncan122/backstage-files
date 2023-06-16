@@ -1,0 +1,23 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: node-express-server
+  description: |
+    Create a simple express server
+  links:
+    - title: Website
+      url: http://backstage.io
+    - title: Documentation
+      url: https://backstage.io/docs
+    - title: Storybook
+      url: https://backstage.io/storybook
+    - title: Discord Chat
+      url: https://discord.com/invite/EBHEGzX
+  annotations:
+    github.com/project-slug: leoncan122/backstage-files
+    backstage.io/techdocs-ref: dir:.
+    # lighthouse.com/website-url: https://platformable.com
+spec:
+  type: service
+  owner: leon
+  lifecycle: experimental
