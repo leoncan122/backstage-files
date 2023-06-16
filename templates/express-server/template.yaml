@@ -3,7 +3,7 @@ apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
   name: node-express
-  title:  Node.js Template
+  title:  Express service
   description: A Node service bootstraped with express
   tags:
     - express
