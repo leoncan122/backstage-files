@@ -5,6 +5,10 @@ metadata:
   name: node-express
   title:  Node.js Template
   description: A Node service bootstraped with express
+  tags:
+    - express
+    - node
+    - server
 spec:
   owner: user:guest
   type: service
