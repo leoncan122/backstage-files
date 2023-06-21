@@ -1,0 +1,7 @@
+tool_name: yellow-pill
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
