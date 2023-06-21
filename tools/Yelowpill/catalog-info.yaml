@@ -3,6 +3,6 @@ kind: Component
 metadata:
   name: yellowpill
 spec:
-  type: tool
+  type: service
   owner: user:guest
   lifecycle: experimental
