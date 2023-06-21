@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: yellow-pill
+spec:
+  type: tool
+  owner: user:guest
+  lifecycle: experimental
